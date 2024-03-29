@@ -1,0 +1,13 @@
+.wrap{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+img{
+    width: 380px;
+    height: 280px;
+}
+.hide{
+    display: none;
+}
